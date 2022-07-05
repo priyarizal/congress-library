@@ -1,5 +1,3 @@
-var submitBtn = document.querySelector("submit")
+$("#submit").on("click", function (event){
 
-document.getElementById("myBtn").addEventListener("click", function () {
-
-}); 
+})
